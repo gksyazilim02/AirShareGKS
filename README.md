@@ -71,7 +71,7 @@ Uygulama Linki: [Google Play Store - AirShareGKS](https://play.google.com/store/
 
 # 📸 Ekran Görüntüsü
 
-![AirShareGKS Ekran Görüntüsü](https://github.com/gksyazilim02/JETFileTransfer/blob/main/scr2.jpg)
+![AirShareGKS Ekran Görüntüsü](https://github.com/gksyazilim02/AirShareGKS/blob/main/3.png)
 
 ---
 
