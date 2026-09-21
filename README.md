@@ -40,8 +40,7 @@ Uygulama Linki: [Google Play Store - AirShareGKS](https://play.google.com/store/
 3. Aynı Wi-Fi ağına bağlı telefonunuzdaki AirShareGKS uygulamasından bağlan butonuna basın.
 4. **🎥 Ekran ve Sesi Yansıt** butonunu kullanarak ekranınızı ve dahili sesinizi bilgisayara aktarmaya başlayın.
 5. İsterseniz **🎙️ Mikrofonu Yansıt** seçeneği ile sesinizi anlık olarak bilgisayara aktarabilirsiniz.
-6. Metin gönderdiğinizde bilgisayar tarafında düzenleme alanında görüntülenir ve panoya kopyalanabilir.
-7. Gelen dosyalarınız bilgisayarınızda İndirilenler dizini altında ilgili klasöre kaydedilir.
+
 
 ---
 
@@ -56,8 +55,6 @@ Uygulama Linki: [Google Play Store - AirShareGKS](https://play.google.com/store/
   - Masaüstü uygulamasındaki QR kodu telefon kamerasıyla taratarak saniyeler içinde eşleşme sağlayın.
 - **Çoklu Dil Desteği**
   - Türkçe, İngilizce, Almanca ve İspanyolca dil seçenekleri sunar.
-- **Gelişmiş Metin ve Dosya Aktarımı**
-  - Telefon panosunu bilgisayarla senkronize edin ve dosyalarınızı güvenle aktarın.
 
 ---
 
