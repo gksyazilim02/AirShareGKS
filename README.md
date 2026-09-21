@@ -27,7 +27,7 @@ Uygulama Linki: [Google Play Store - AirShareGKS](https://play.google.com/store/
 ## 📷 Android Mobil Uygulama Ekran Görüntüleri
 
 <p align="center">
-  <img src="https://github.com/gksyazilim02/JETFileTransfer/blob/main/scr1.jpg" alt="Ana Ekran 1" width="300"/>
+  <img src="https://github.com/gksyazilim02/AirShareGKS/blob/main/2.png" alt="Ana Ekran 1" width="300"/>
 </p>
 
 ---
