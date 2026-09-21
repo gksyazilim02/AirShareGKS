@@ -1,6 +1,6 @@
 # 🖥️ AirShareGKS (Ekran ve Ses Yansıtma)
 
-## AirShareGKS, yerel ağ (Wi-Fi/Ethernet) üzerindeki akıllı telefonlar ve bilgisayarlar arasında, özellikle Pardus ve Windows işletim sistemlerinde, Android cihazınızın ekranını, sesini ve mikrofonunu bilgisayara kablosuz ve hızlı bir şekilde yansıtmanızı, ayrıca güvenli veri/dosya aktarımı yapmanızı sağlayan masaüstü sunucu uygulamasıdır.
+## AirShareGKS, yerel ağ (Wi-Fi/Ethernet) üzerindeki akıllı telefonlar ve bilgisayarlar arasında, özellikle Pardus ve Windows işletim sistemlerinde, Android cihazınızın ekranını, sesini ve mikrofonunu bilgisayara kablosuz ve hızlı bir şekilde yansıtmanızı sağlayan masaüstü sunucu uygulamasıdır.
 
 ------
 ## AirShareGKS'nin Android istemcisi ile aynı yerel ağ üzerindeki ekranınızı, sesinizi ve dosyalarınızı mobil cihazınızdan PARDUS ve Windows işletim sistemine güvenli olarak aktarabilirsiniz.
