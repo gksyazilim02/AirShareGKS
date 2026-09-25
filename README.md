@@ -76,5 +76,5 @@ Uygulama Linki: [Google Play Store - AirShareGKS](https://play.google.com/store/
 ---
 
 # 📄 Lisans
-**Mobil Uygulama:** Ücretsiz olarak kullanılabilir. Uygulama deneyimini desteklemek amacıyla içerisinde reklamlar gösterilebilir.  
+
 **Masaüstü Yazılım:** Ücretsiz olarak kullanılabilir ve reklam içermez.
