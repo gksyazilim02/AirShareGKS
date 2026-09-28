@@ -6,11 +6,11 @@
 ## AirShareGKS'nin Android istemcisi ile aynı yerel ağ üzerindeki ekranınızı, sesinizi ve dosyalarınızı mobil cihazınızdan Linux (Ubuntu,PARDUS) ve Windows işletim sistemine güvenli olarak aktarabilirsiniz.
 ## Öncelikle PLAY STORE üzerinden (https://play.google.com/store/apps/details?id=com.gksyazilim.airshare) AirShareGKS isimli mobil uygulamayı Android cihazınıza kurmalısınız.
 
-## Mobil uygulamayı kurduktan sonra bu linkte yer alan paketleri indirerek Pardus veya Windows işletim sisteminize kurabilir ve cep telefonunuz üzerinden aynı ağdaki bilgisayarınıza ekran yansıtma ve dosya transferi yapabilirsiniz.
+## Mobil uygulamayı kurduktan sonra bu linkte yer alan paketleri indirerek Linux(Ubuntu,Pardus vb.) veya Windows işletim sisteminize kurabilir ve cep telefonunuz üzerinden aynı ağdaki bilgisayarınıza ekran yansıtma ve dosya transferi yapabilirsiniz.
 
 ### 📥 Uygulama İndirme Linkleri
 
-* 🐧 **Pardus / Linux İşletim Sistemi İçin (.deb):**  
+* 🐧 **Linux (Ubuntu, Pardus)İşletim Sistemi İçin (.deb):**  
   [🔗 AirShareGKS İndir](https://github.com/gksyazilim02/AirShareGKS/releases/download/AirShareGKS/airshare-gks_1.0.0_amd64.deb)
 
 * 🪟 **Windows İşletim Sistemi İçin Sunucu Kurulum Dosyası (Sunucu Setup 1):**  
