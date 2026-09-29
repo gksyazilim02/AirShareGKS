@@ -69,7 +69,7 @@ Uygulama Linki: [Google Play Store - AirShareGKS](https://play.google.com/store/
 | **Mobil Platform** | Android (Kotlin, Jetpack Compose, Material 3) |
 | **Masaüstü Platform** | C++17, Qt 6 (QtWidgets, QtNetwork) |
 | **Ağ ve İletişim** | OkHttp, Gson, Coroutines |
-| **Ek Araçlar** | Google AdMob (Reklam Entegrasyonu), ZXing (QR Tarayıcı) |
+| **Ek Araçlar** | ZXing (QR Tarayıcı) |
 
 ---
 
