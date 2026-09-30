@@ -41,7 +41,7 @@ Uygulama Linki: [Google Play Store - AirShareGKS](https://play.google.com/store/
 
 1. Uygulamayı Windows veya Pardus masaüstü üzerinde çalıştırın.
 2. **Sunucu IP Adresi** bölümünde görünen QR kodu mobil uygulama üzerinden taratın veya ekranda görünen IP numarası ve 6 haneli güvenlik parolası ile uygulamaya giriş yapın. (Örn: `192.168.1.50`)
-3. Aynı Wi-Fi ağına bağlı telefonunuzdaki AirShareGKS uygulamasından bağlan butonuna basın.
+3. Aynı Wi-Fi ağına bağlı telefonunuzdaki AirShareGKS uygulamasından bağlan butonuna basın. (ÖNEMLİ: Wi-fi ağını kişisel erişim noktanızdan yapmanız daha hızlı ve daha güvenli bağlantıyı sağlayacaktır.Burada önemli nokta paylaşım yapan cihazların aynı ağda olmasıdır)
 4. **🎥 Ekran ve Sesi Yansıt** butonunu kullanarak ekranınızı ve dahili sesinizi bilgisayara aktarmaya başlayın.
 5. İsterseniz **🎙️ Mikrofonu Yansıt** seçeneği ile sesinizi anlık olarak bilgisayara aktarabilirsiniz.
 
