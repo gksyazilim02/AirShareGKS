@@ -20,7 +20,7 @@
   [🔗 AirShare GKS Windows İstemci Kurulumu İndir](https://github.com/gksyazilim02/AirShareGKS/releases/download/AirShareGKS/AirShare.GKS.Client.exe)
 
 *🍓 **Raspberry Pi (64-bit / Raspberry Pi OS) İçin (.deb):
-*  [🔗 AirShare GKS İndir] (https://github.com/gksyazilim02/AirShareGKS/releases/download/AirShareGKS/airshare-gks_1.0.0_arm64.deb))
+*  [🔗 AirShare GKS İndir] (https://github.com/gksyazilim02/AirShareGKS/releases/download/AirShareGKS/airshare-gks_1.0.0_arm64.deb)
  
 ------
 
