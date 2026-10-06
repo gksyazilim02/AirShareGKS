@@ -11,7 +11,7 @@
 ### 📥 Uygulama İndirme Linkleri
 
 * 🐧 **Linux (Ubuntu, Pardus)İşletim Sistemi İçin (.deb):**  
-  [🔗 AirShareGKS İndir](https://github.com/gksyazilim02/AirShareGKS/releases/download/AirShareGKS/airshare-gks_1.0.0_amd64.deb)
+  [🔗 AirShareGKS İndir](https://github.com/gksyazilim02/AirShareGKS/releases/download/AirShareGKS/airshare-gks_amd64.deb)
 
 * 🪟 **Windows İşletim Sistemi İçin Sunucu Kurulum Dosyası (Sunucu Setup 1):**  
   [🔗 AirShare GKS Windows Sunucu Kurulumu İndir](https://github.com/gksyazilim02/AirShareGKS/releases/download/AirShareGKS/AirShare.GKS.setup.exe)
